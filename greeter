@@ -1,0 +1,7 @@
+classGreeter 
+{String name;Greeter
+    (String name)
+    {this.name = name;
+    }
+publicString greet()
+{return"Hello"+ name +",whatawonderfulday."}}
